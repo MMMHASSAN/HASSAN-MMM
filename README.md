@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MMMHASSAN
+- 👋 Hi, I’m @HASSAN MMM
 - 👀 I’m interested in D.Sc
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on Data Analytics..
